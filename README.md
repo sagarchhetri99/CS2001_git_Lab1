@@ -424,6 +424,11 @@ Student ID | Movie | Year of Release
 1909611 | Movie 3 | 2020
 1909611 | Movie 4 | 2020
 1909611 | Movie 5 | 2020
+1910918 | Avengers:Age of Ultron | 2015
+1910918 | Avengers:End Game | 2019
+1910918 | Avengers:Infinity War | 2018
+1910918 | Avatar | 2009
+1910918 | Inside Out | 2015
 1911252 | Batman Begins | 2005
 1911252 | Avengers Endgame | 2019 
 1911252 | Random movie | 2003 
@@ -434,9 +439,13 @@ Student ID | Movie | Year of Release
 1937814 | The Platform | 2019
 1937814 | Exam | 2009
 1937814 | 22 Jump Street | 2014
+1903966 | Pulp Fiction | 1994
+1903966 | Django Unchained | 2012
+1903966 | Uncut Gems | 2019
+1903966 | 1917 | 2019
+1903966 | Dunkirk | 2017
 1945237 | John Wick | 2014
 1945237 | Kung Fu Hustle| 2004
 1945237 | The Joker | 2019
 1945237 | Wardogs | 2016
 1945237 | The Wolf Of Wall Street | 2013
-
