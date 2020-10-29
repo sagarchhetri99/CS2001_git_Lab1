@@ -479,3 +479,8 @@ Student ID | Movie | Year of Release
 1816426 | Captain America: The winter soldier|2014
 1816426 | The Dark knight | 2008
 1816426 | The Dark Knight rises | 2012
+1910055 | Avengers Endgame | 2019
+1910055 | A Quiet Place | 2018
+1910055 | Interstellar | 2014
+1910055 | War for the Planet of the Apes | 2017
+1910055 | Avatar | 2009
