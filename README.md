@@ -57,6 +57,11 @@ Student ID | Movie | Year of Release
 1818316 | Very nice movie | 1994
 1818316 | Super nice movie | 1995
 1818316 | Extremely nice movie | 1996
+1906858|Captain Marvel|2019
+1906858|Avengers: End Game|2019
+1906858|Random Movie|2020
+1906858|White Chicks|2009
+1906858|Life of Pi|2012
 1929348 | Dark Knight | 2009
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
