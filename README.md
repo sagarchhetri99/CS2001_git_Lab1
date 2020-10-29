@@ -21,7 +21,6 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
-1836565|Shrek|2001
 1822554| Shrek |2001
 1822554|Annabelle|2014
 1822554| Borat| 2006
@@ -475,3 +474,8 @@ Student ID | Movie | Year of Release
 1911492 | Troy | 2004
 1911492 | Housefull 4 | 2019
 1911492 | Life of Pi | 2012
+1816426 | Hitch | 2005
+1816426 | Now you see me | 2013
+1816426 | Captain America: The winter soldier|2014
+1816426 | The Dark knight | 2008
+1816426 | The Dark Knight rises | 2012
