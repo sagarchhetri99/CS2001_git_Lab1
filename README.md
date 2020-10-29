@@ -434,3 +434,8 @@ Student ID | Movie | Year of Release
 1903966 | Uncut Gems | 2019
 1903966 | 1917 | 2019
 1903966 | Dunkirk | 2017
+1945237 | John Wick | 2014
+1945237 | Kung Fu Hustle| 2004
+1945237 | The Joker | 2019
+1945237 | Wardogs | 2016
+1945237 | The Wolf Of Wall Street | 2013
