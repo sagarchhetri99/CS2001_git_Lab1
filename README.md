@@ -394,3 +394,10 @@ Student ID | Movie | Year of Release
 1909611 | Movie 3 | 2020
 1909611 | Movie 4 | 2020
 1909611 | Movie 5 | 2020
+1910918 | Avengers:Age of Ultron | 2015
+1910918 | Avengers:End Game | 2019
+1910918 | Avengers:Infinity War | 2018
+1910918 | Avatar | 2009
+1910918 | Inside Out | 2015
+
+
