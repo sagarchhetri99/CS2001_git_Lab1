@@ -346,11 +346,16 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
-1812385| Fast & Furious 7 | 2015 
-1812385| Logan | 2017 
-1812385| The Bank Job | 2008 
-1812385| The Dark Knight | 2008
-1812385| Avengers Infinity war | 2018
+1908976 | Tokyo Drift | 2005 
+1908976 | The Wolf of Wall Street | 2013
+1908976 | Avengers: End Game | 2019
+1908976 | Inception | 2010
+1908976 | Fast & Furious 5 | 2011
+1812385 | Fast & Furious 7 | 2015 
+1812385 | Logan | 2017 
+1812385 | The Bank Job | 2008 
+1812385 | The Dark Knight | 2008
+1812385 | Avengers Infinity war | 2018
 1805927 | Your Name	| 2016
 1805927	| A Silent Voice | 2016
 1805927	| Dragon Ball Super: Broly | 2018
@@ -361,11 +366,11 @@ Student ID | Movie | Year of Release
 1803870 | The conjuring | 2013
 1803870 | The conjuring 2 | 2016
 1803870 | Dark Knight Rises | 2012
-1813361| The Godfather| 1972
-1813361| The matrix | 1999
-1813361| Gladiator| 2000
-1813361| The Lion King | 1994
-1813361| The shining | 1980
+1813361 | The Godfather| 1972
+1813361 | The matrix | 1999
+1813361 | Gladiator| 2000
+1813361 | The Lion King | 1994
+1813361 | The shining | 1980
 1909611 | Avatar | Dunno
 1833927 | Spirited Away | 2001
 1833927 | Beasts of No Nation | 2015
@@ -384,6 +389,31 @@ Student ID | Movie | Year of Release
 1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1840862 | shutter island| 2010
+1840862 | memento | 2000
+1840862 | predestination | 2014
+1840862 | inception | 2010
+1840862 | the shawshank redemption | 1994
+1836704 | Deadpool | 2016
+1836704 | The Gentlemen | 2019
+1836704 | The Lion King | 1994
+1836704 | Guava Island | 2019
+1836704 | Storks | 2016
+1918375 | The Martian | 2015
+1918375 | Interstellar | 2014
+1918375 | Gladiator | 2000
+1918375 | Pokémon: Lucario And The Mystery of Mew | 2005
+1918375 | Dangal | 2016
+1943699 |Mission Impossible | 1996
+1943699 |Mission Impossible 2 | 2000
+1943699 |Mission Impossible 3 | 2006
+1943699 |Mission Impossible 4 | 2011
+1943699 |Age of Ultron| 2015 
+1814493 | One Piece Film: Stampede | 2019
+1814493 | Mama mia! | 2008
+1814493 | Pirates of the Caribbean | 2007
+1814493 | Your Name | 2016
+1814493 | Harry Potter and the Goblet of Fire | 2005
 1812139 | Parasite | 2019
 1812139 | Lucy| 2019
 1812139 | Your name| 2016
@@ -399,5 +429,18 @@ Student ID | Movie | Year of Release
 1910918 | Avengers:Infinity War | 2018
 1910918 | Avatar | 2009
 1910918 | Inside Out | 2015
-
-
+1911252 | Batman Begins | 2005
+1911252 | Avengers Endgame | 2019 
+1911252 | Random movie | 2003 
+1911252 | Random movie | 2004 
+1911252 | Random movie | 2005 
+1903966 | Pulp Fiction | 1994
+1903966 | Django Unchained | 2012
+1903966 | Uncut Gems | 2019
+1903966 | 1917 | 2019
+1903966 | Dunkirk | 2017
+1945237 | John Wick | 2014
+1945237 | Kung Fu Hustle| 2004
+1945237 | The Joker | 2019
+1945237 | Wardogs | 2016
+1945237 | The Wolf Of Wall Street | 2013
